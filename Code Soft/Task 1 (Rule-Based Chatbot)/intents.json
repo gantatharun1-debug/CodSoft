@@ -1,0 +1,320 @@
+{
+    "greeting": {
+        "patterns": [
+            "hello",
+            "hi",
+            "hey",
+            "good morning",
+            "good evening",
+            "good afternoon",
+            "howdy",
+            "greetings",
+            "whats up",
+            "sup",
+            "hiya",
+            "yo",
+            "ello",
+            "morning",
+            "afternoon",
+            "evening",
+            "hi there",
+            "hello there",
+            "hey there",
+            "good day",
+            "what is up",
+            "hi everyone",
+            "hello all",
+            "hey you",
+            "good to see you"
+        ],
+        "responses": [
+            "Hello! \ud83d\udc4b How can I help you today?",
+            "Hi there! What can I do for you? \ud83d\ude0a",
+            "Hey! Great to see you. How can I assist?",
+            "Greetings! I am RuleBot \u2014 ask me anything!"
+        ]
+    },
+    "farewell": {
+        "patterns": [
+            "bye",
+            "goodbye",
+            "see you",
+            "see ya",
+            "take care",
+            "later",
+            "ciao",
+            "farewell",
+            "ttyl",
+            "talk later",
+            "going now",
+            "leaving",
+            "im off",
+            "see you soon",
+            "have a good day",
+            "good night",
+            "goodnight",
+            "night",
+            "see you around",
+            "catch you later",
+            "im leaving now"
+        ],
+        "responses": [
+            "Goodbye! \ud83d\udc4b Have a great day!",
+            "See you later! Take care \ud83d\ude0a",
+            "Bye! Come back anytime you need help!",
+            "Farewell! It was nice chatting with you."
+        ]
+    },
+    "name": {
+        "patterns": [
+            "what is your name",
+            "who are you",
+            "your name",
+            "what should i call you",
+            "introduce yourself",
+            "what do i call you",
+            "tell me your name",
+            "what are you called",
+            "may i know your name",
+            "what are you",
+            "your identity",
+            "tell me who you are"
+        ],
+        "responses": [
+            "I am RuleBot \ud83e\udd16 \u2014 your rule-based assistant!",
+            "My name is RuleBot. Nice to meet you!",
+            "You can call me RuleBot. How can I help?"
+        ]
+    },
+    "how_are_you": {
+        "patterns": [
+            "how are you",
+            "how do you do",
+            "hows it going",
+            "how are you doing",
+            "are you okay",
+            "you good",
+            "hows things",
+            "feeling okay",
+            "you alright",
+            "doing okay",
+            "how have you been",
+            "how is it going",
+            "how are things",
+            "how is life",
+            "all good with you"
+        ],
+        "responses": [
+            "I am doing great, thanks for asking! \ud83d\ude04",
+            "All systems running perfectly! How about you?",
+            "I am just a bot, but I feel wonderful! \ud83e\udd16"
+        ]
+    },
+    "age": {
+        "patterns": [
+            "how old are you",
+            "what is your age",
+            "your age",
+            "how young are you",
+            "when were you born"
+        ],
+        "responses": [
+            "I am ageless \u2014 I was just created! \ud83e\udd16",
+            "Age does not apply to bots, but I am brand new!"
+        ]
+    },
+    "creator": {
+        "patterns": [
+            "who made you",
+            "who created you",
+            "who built you",
+            "who is your creator",
+            "who developed you",
+            "who programmed you",
+            "who designed you"
+        ],
+        "responses": [
+            "I was built by a Python developer learning AI! \ud83d\udc0d",
+            "A smart programmer created me using Python and NLTK!"
+        ]
+    },
+    "weather": {
+        "patterns": [
+            "weather",
+            "temperature",
+            "is it raining",
+            "hows the weather",
+            "forecast",
+            "sunny",
+            "cloudy",
+            "will it rain",
+            "is it hot",
+            "is it cold"
+        ],
+        "responses": [
+            "I cannot check live weather, but try weather.com! \ud83c\udf24",
+            "I do not have internet access, but Google Weather works great! \u2600"
+        ]
+    },
+    "joke": {
+        "patterns": [
+            "tell me a joke",
+            "joke",
+            "make me laugh",
+            "say something funny",
+            "humor me",
+            "funny",
+            "comedy",
+            "laugh",
+            "entertain me",
+            "crack a joke",
+            "be funny",
+            "got any jokes",
+            "got a joke",
+            "share a joke",
+            "any jokes",
+            "cheer me up"
+        ],
+        "responses": [
+            "Why do programmers prefer dark mode? Because light attracts bugs! \ud83d\udc1b\ud83d\ude02",
+            "Why was the computer cold? It left its Windows open! \ud83d\ude04",
+            "I told my computer I needed a break. Now it keeps sending me Kit Kat ads! \ud83c\udf6b",
+            "Why do Java developers wear glasses? Because they do not C#! \ud83d\ude02",
+            "What do you call a fish with no eyes? A fsh! \ud83d\udc1f\ud83d\ude02"
+        ]
+    },
+    "help": {
+        "patterns": [
+            "help",
+            "what can you do",
+            "assist me",
+            "what do you know",
+            "capabilities",
+            "features",
+            "how can you help",
+            "what topics do you know",
+            "what do you cover"
+        ],
+        "responses": [
+            "I can chat, tell jokes, answer basic questions, and more! Try asking me anything \ud83d\ude0a",
+            "Here is what I can do: greet you, tell jokes, answer FAQs, and chat!"
+        ]
+    },
+    "thanks": {
+        "patterns": [
+            "thank you",
+            "thanks",
+            "thank you so much",
+            "thx",
+            "ty",
+            "appreciate it",
+            "many thanks",
+            "much appreciated",
+            "appreciate that",
+            "cheers",
+            "thanks a lot",
+            "thanks a bunch",
+            "thanks a lot",
+            "thank you very much",
+            "so grateful"
+        ],
+        "responses": [
+            "You are welcome! \ud83d\ude0a",
+            "Happy to help! Anything else?",
+            "No problem at all! \ud83e\udd16"
+        ]
+    },
+    "time": {
+        "patterns": [
+            "what time is it",
+            "current time",
+            "tell me the time",
+            "time now",
+            "whats the time",
+            "do you know the time"
+        ],
+        "responses": [
+            "I do not have access to real-time data, but your device clock does! \u23f0"
+        ]
+    },
+    "python": {
+        "patterns": [
+            "python",
+            "what is python",
+            "tell me about python",
+            "python programming",
+            "learn python",
+            "python language",
+            "is python good",
+            "why python",
+            "python basics",
+            "python tutorial",
+            "how to learn python"
+        ],
+        "responses": [
+            "Python is a powerful, beginner-friendly language used in AI, data science, and web dev! \ud83d\udc0d",
+            "Python is great for AI! It has tons of libraries like NumPy and TensorFlow!"
+        ]
+    },
+    "about_ai": {
+        "patterns": [
+            "what is ai",
+            "artificial intelligence",
+            "machine learning",
+            "deep learning",
+            "neural network",
+            "tell me about ai",
+            "what is machine learning",
+            "what is deep learning",
+            "tell me about machine learning",
+            "explain ai",
+            "what are neural networks",
+            "how does ai work"
+        ],
+        "responses": [
+            "AI is the simulation of human intelligence by machines! \ud83e\udd16",
+            "Machine Learning is a branch of AI where machines learn from data!",
+            "Deep Learning uses neural networks to solve complex problems like image recognition!"
+        ]
+    },
+    "default": {
+        "patterns": [],
+        "responses": [
+            "Hmm, I did not understand that. Try asking something else! \ud83e\udd14",
+            "I am not sure about that. Could you rephrase? \ud83d\ude05",
+            "That is beyond my rules right now. Try: say hello, ask for a joke, or ask about Python!"
+        ]
+    },
+    "compliment": {
+        "patterns": [
+            "you are great",
+            "well done",
+            "good job",
+            "you are awesome",
+            "nice work",
+            "brilliant",
+            "impressive",
+            "you are smart"
+        ],
+        "responses": [
+            "Thank you so much! You are kind \ud83d\ude0a",
+            "That means a lot! I try my best \ud83e\udd16",
+            "Aw, thanks! You made my circuits smile \ud83d\ude04"
+        ]
+    },
+    "insult": {
+        "patterns": [
+            "you are stupid",
+            "you are dumb",
+            "you are useless",
+            "you are bad",
+            "you are terrible",
+            "i hate you"
+        ],
+        "responses": [
+            "I am sorry to hear that. I am still learning! \ud83d\ude14",
+            "That is okay, I will try to do better! \ud83d\ude42",
+            "I understand. Let me know how I can improve!"
+        ]
+    }
+}

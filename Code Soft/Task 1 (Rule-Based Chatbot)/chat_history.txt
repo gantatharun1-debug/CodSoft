@@ -1,0 +1,12 @@
+=== RuleBot Chat History ===
+
+[14:11:12] USER: Hello!
+[14:11:12] BOT: Greetings! I am RuleBot — ask me anything!
+[14:11:12] USER: Tell me a joke
+[14:11:12] BOT: Why do Java developers wear glasses? Because they do not C#! 😂
+[14:11:12] USER: What is Python?
+[14:11:12] BOT: Python is great for AI! It has tons of libraries like NumPy and TensorFlow!
+[14:11:12] USER: You are great!
+[14:11:12] BOT: Aw, thanks! You made my circuits smile 😄
+[14:11:12] USER: Thanks!
+[14:11:12] BOT: No problem at all! 🤖
